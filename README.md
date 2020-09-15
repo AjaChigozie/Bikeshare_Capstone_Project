@@ -57,6 +57,7 @@ In this program we were was required to create and app from which the user can a
 To complete this project, I used my knowledge of Python programming and Pandas gained throughout the study sessions of the WeJapa Data Science. I also referred to various sources for help along the way.
 SOURCES:
 Pandas Documentation: https://pandas.pydata.org/panda-docs/stable/user_guide/10min.html
+
 https://pandas.pydata.org/panda-docs/stable/user_guide/timeseries.html
 https://pandas.pydata.org/panda-docs/stable/user_guide/io.html
 Python Docs: https://docs.python.org/3/library/
