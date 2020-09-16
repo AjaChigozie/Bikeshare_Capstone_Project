@@ -102,6 +102,9 @@ Stackoverflow.
 www.geeksofgeeks.org/convert-the-column-type-from-strings-to-datetime-format-in-pandas-dataframe/
 www.interviewqs.com/ddi_code_snippets/extract_month_year_pandas
 
+LINK TO DATA:
+
+https://drive.google.com/file/d/1JpqwJ5ptV_PvMYhHfhmK0KN5Bi6H6TPU/view?usp=sharing
 
 
 
